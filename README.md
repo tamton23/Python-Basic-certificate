@@ -9,6 +9,21 @@ Kho lưu trữ này lưu giữ toàn bộ mã nguồn, bài tập thực hành (
 
 ---
 
+## 📖 Tài Liệu Tham Khảo Trọng Tâm
+
+Toàn bộ nền tảng kiến thức, cấu trúc mã nguồn, và các ví dụ thực hành trong kho lưu trữ này được học tập, hệ thống hóa và bám sát theo nội dung của cuốn sách lập trình Python kinh điển:
+
+> 📘 **Learning Python, Fourth Edition**
+> * **Tác giả:** Mark Lutz
+> * **Nhà xuất bản:** O’Reilly Media, Inc. (Sebastopol, CA)
+> * **Năm xuất bản:** 2009 (Fourth Edition)
+> * **ISBN:** 978-0-596-15806-4
+> * *Copyright © 2009 Mark Lutz. All rights reserved.*
+
+Cuốn sách này đóng vai trò là kim chỉ nam giúp củng cố vững chắc các khái niệm nền tảng, hỗ trợ tuyệt đối cho việc chinh phục bài thi PCEP.
+
+---
+
 ## 🎓 Về Chứng Chỉ PCEP™ (Certified Entry-Level Python Programmer)
 
 Chứng chỉ **PCEP™** đánh giá và chứng minh khả năng của ứng viên trong việc hoàn thành các nhiệm vụ lập trình cơ bản bằng ngôn ngữ Python. 
